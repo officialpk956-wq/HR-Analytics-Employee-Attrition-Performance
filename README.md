@@ -1,5 +1,4 @@
-# HR-Analytics-Employee-Attrition-Performance
-HR Analytics in employee attrition and performance helps organizations identify factors driving turnover, predict which employees are at risk, and evaluate productivity. By leveraging data on demographics, engagement, training, and performance, companies can design retention strategies, boost workforce efficiency, and support decision-making.
+
 # Employee Attrition Analysis & Predictive Modeling
 
 Welcome to the Employee Attrition Analysis project. This repository provides a complete exploration of factors driving employee turnover, predictive modeling for attrition, and actionable insights for HR decision-making.
